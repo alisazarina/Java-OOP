@@ -2,7 +2,7 @@ package Lab1;
 
 /**
  *
- * @author NurAlisaZarina-52213121129
+ * @author AlisaZarina
  */
 
 // Create class for Panda (blueprint/template).
