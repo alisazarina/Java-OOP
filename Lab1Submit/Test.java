@@ -4,7 +4,7 @@ package Lab1Submit;
 /**
  *
  * @author  NURLIA AZRINA
- *          NUR ALISA ZARINA BINTI NAZMI
+ *          NUR ALISA ZARINA
  *          NUR AINA AZREEN
  *          NURIN NASUHA
  */
