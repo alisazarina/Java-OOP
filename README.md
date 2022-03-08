@@ -1,5 +1,12 @@
-# OOP-Lab1-Assignment
-This is a Java programming assignment for ISB16003 Object-Oriented Programming.
+# OOP Lab Assignments
+This is a collection of Java Programming Lab Assignments for ISB16003 Object-Oriented Programming.
+
+  - [Lab 1](#lab-1)
+  - [Lab 2](#lab-2)
+
+## Overview
+
+### Lab 1
 
 The requirements:
 1. Identify and list down FOUR species of animals that can be seen from the picture provided.
@@ -7,3 +14,5 @@ The requirements:
 3. Write down the total number of animals in a group.
 4. Create class for each group.
 5. Create objects from each class.
+
+
