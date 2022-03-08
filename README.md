@@ -8,9 +8,9 @@ This is a collection of Java Programming Lab Assignments for ISB16003 Object-Ori
 
 ![06-Lab-group-project](https://user-images.githubusercontent.com/85399390/157269574-d7b1aa71-00fe-496b-9d43-00c59391aa97.png)
 
-My answer (Individual): "src/main/java/Lab1" folder
+My answer (Individual) → **src/main/java/Lab1**
 
-Final submission (Group): "Lab1Submit" folder
+Final submission (Group) → **Lab1Submit**
 
 ## Lab 2
 
