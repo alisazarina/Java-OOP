@@ -16,7 +16,7 @@ Final submission (Group) → **Lab1Submit**
 
 ![Lab2-Question-crop](https://user-images.githubusercontent.com/85399390/157270180-822c8f20-6fd6-429b-a56b-93bf9c3fa019.png)
 
-Java programming code → 
+Java programming code → **Lab2**
 
 UML Diagram:
 ![OOPLab2-crop](https://user-images.githubusercontent.com/85399390/157270356-12c42436-6b00-428a-b60b-78b00091a22a.png)
