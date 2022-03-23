@@ -7,7 +7,7 @@ package LAB3;
  *         NUR AINA AZREEN
  *         NURIN NASUHA
  */
-public class Test {
+public class Main {
     public static void main (String[] args) {
         
         //Print out animal
