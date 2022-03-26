@@ -2,7 +2,7 @@ package Lab4;
 
 /**
  *
- * @author 
+ * @author Alisa Zarina
  */
 public class Animal {
     private String animalClassf;        // right-click on animalClassf > click "Insert Code..." > "Getter and Setter" (optional in Encapsulation; it's a modification to retrieve data from private variables)
