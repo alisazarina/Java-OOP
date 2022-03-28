@@ -24,8 +24,10 @@ UML Diagram:
 ![OOPLab2-crop](https://user-images.githubusercontent.com/85399390/157270356-12c42436-6b00-428a-b60b-78b00091a22a.png)
 
 ## Lab 3
+![01-Lab3-Question](https://user-images.githubusercontent.com/85399390/160346740-e70dcf9a-7c48-4ff8-add3-179009e240f3.png)
 
 ## Lab 4
+![Lab4-Question](https://user-images.githubusercontent.com/85399390/160346810-4b222a9f-bfd3-4208-a000-e3dc1589884d.png)
 
 
 
