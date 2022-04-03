@@ -5,14 +5,14 @@ package Assignment1;
  * @author Alisa Zarina
  */
 
-// Q1-2 Create a Product class with instance variables. + Q4 Write a getter/accessor and setter/mutator method for each variable.
+// Q1-2 Create a Product class with instance variables.
 public class Product {
     private int productNumber;
     public String productName;
     public int productStock;
     protected double productPrice;
     
-    
+    //Q4 Write a getter/accessor and setter/mutator method for each variable.    
     // Getter/Accessor methods for all variables.
     public int getProductNumber() {
         return productNumber;
