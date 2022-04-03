@@ -8,9 +8,9 @@ package Assignment1;
 // Q1-2 Create a Product class with instance variables.
 public class Product {
     private int productNumber;
-    public String productName;
-    public int productStock;
-    protected double productPrice;
+    private String productName;
+    private int productStock;
+    private double productPrice;
     
     //Q4 Write a getter/accessor and setter/mutator method for each variable.    
     // Getter/Accessor methods for all variables.
