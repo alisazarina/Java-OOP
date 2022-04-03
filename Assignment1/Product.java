@@ -75,7 +75,10 @@ public class Product {
     // Q5 Override the toString() method from the Object class.
     @Override       
     public String toString() {
-        return this.productNumber + this.productName + this.productStock + this.productPrice;
+        return ("Item number: " + productNumber 
+                + "\nName: " + productName 
+                + "\nStock available: " + productStock 
+                + "\nPrice per unit: RM" + productPrice);
     }
     
     
