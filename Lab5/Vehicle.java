@@ -4,7 +4,7 @@ package Lab5;
  *
  * @author Alisa Zarina
  */
-public class Vehicle {
+public abstract class Vehicle {                                 // abstract class since italic based on UML diagram
     protected int manufacturedYear;
     protected double price;    
     
@@ -13,10 +13,6 @@ public class Vehicle {
     this.price = price;
     }
     
-    public void displayVehicle() {
-        System.out.println("Vehicle details:");
-        System.out.println("\nManufactured year: " + manufacturedYear);
-        System.out.println("\nPrice: " + price);
-    }
+    public abstract void displayVehicle();                      // abstract method so no body
 
 }
