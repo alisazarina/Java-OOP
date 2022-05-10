@@ -45,19 +45,20 @@ public class Sales {
         this.amount = amount;
     }
     
-    // method named determineDiscount() that returns discount of sales
-    // -- not sure if determineDiscount() should be atas or bawah? also not sure of calculation!!
-    public double calcDiscount(double amount, int discount) {
-        double determineDiscount;
-        
-        determineDiscount = (amount * discount) / 100;
-        
-        return determineDiscount;
-    }
-    
     // discount table:
     // if sales ≥ 900, then 10% discount
     // if sales 500 ≤ sales ≤ 900, then 8% discount
     // if sales < 500, then 4% discount
+    
+    public double determineDiscount() {
+        if (amount >= 900) {
+            return 0.10;
+        } else if (amount >= 500 && amount <= 900) {
+            return 0.08;
+        } else {
+            return 0.04;
+        }
+    }
+    
     
 }
