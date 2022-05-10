@@ -13,20 +13,17 @@ public class Test {
         
         // create two Sales objects + assign values
         Sales s1 = new Sales ("SALE6003", 800);
-        Sales s2 = new Sales("SALE7003", 500);
+        Sales s2 = new Sales("SALE7003", 400);
         
         // update values of object s2
         s2.setSalesId("SALE5003");
         s2.setAmount(500);
         
         // display objects -- method call to display objects as parameters (???)
-//        public String displaySalesObject() {
-//            return ("")
-//        }
-
-//        normal display:
-//        System.out.println(s1);
-//        System.out.println(s2);
+        System.out.println("\n" + s1.getSalesId());
+        System.out.println(s1.getAmount());
+        System.out.println("\n" + s2.getSalesId());
+        System.out.println(s2.getAmount());
 
         
     }
